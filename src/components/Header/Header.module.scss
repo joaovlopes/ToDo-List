@@ -1,0 +1,25 @@
+.header {
+    // background-color: $gray-700;
+    background-color: var(--gray-700);
+
+    // background-color: white;
+
+    // height: 12.5rem;
+
+    .logo {
+        // color: $blue;
+        color: var(--blue);
+        
+        text-align: center;
+        padding: 6.25rem 0;
+
+        font-size: 2.5rem;
+        font-weight: bold;
+    
+        span {
+        //   color: $purple-dark;
+            color: var(--purple-dark);
+            font-size: 2.5rem;
+        }
+    }
+}

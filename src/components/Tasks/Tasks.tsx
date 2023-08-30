@@ -1,4 +1,4 @@
-import { ClipboardText, Trash } from '@phosphor-icons/react'
+import { Trash } from '@phosphor-icons/react'
 
 import { useState } from 'react'
 

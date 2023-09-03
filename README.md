@@ -43,7 +43,7 @@ After installing the dependencies, execute `npm run dev` to initialize the proje
 Finally, you can just access the `localhost` path in your terminal to open the project in your browser.
 *To start this project you need node v16+.
 
-## 🤖 How to access the project?
+## 🌍 How to access the project?
 
 You can access it through this link: <strong>https://joaovlopes.github.io/ToDo-List/<strong/>
 
